@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Http" pattern="file[*]:.idea/httpRequests//*" />
+</component>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="api" />
+        <module name="consumer" />
+        <module name="pojo" />
+        <module name="provider-12301" />
+        <module name="provider-12301 (2)" />
+        <module name="provider-12301 (3)" />
+        <module name="provider-12302" />
+        <module name="provider-12303" />
+        <module name="provider-12304" />
+        <module name="server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="api" target="1.5" />
+      <module name="cloud" target="1.5" />
+      <module name="consumer" target="1.8" />
+      <module name="pojo" target="1.5" />
+      <module name="provider-12301" target="1.8" />
+      <module name="provider-12301 (2)" target="1.8" />
+      <module name="provider-12301 (3)" target="1.8" />
+      <module name="provider-12302" target="1.8" />
+      <module name="provider-12303" target="1.8" />
+      <module name="provider-12304" target="1.8" />
+      <module name="server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
