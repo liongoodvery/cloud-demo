@@ -5,7 +5,7 @@
       <usages-collector id="statistics.spring.boot.mvc.usages">
         <counts>
           <entry key="RestClientRequestEditorNavigator.fromCode" value="2" />
-          <entry key="RestClientRequestRunnerNavigator.fromCode" value="5" />
+          <entry key="RestClientRequestRunnerNavigator.fromCode" value="6" />
         </counts>
       </usages-collector>
     </session>
@@ -84,9 +84,8 @@
         <option value="$PROJECT_DIR$/pojo/pom.xml" />
         <option value="$PROJECT_DIR$/api/pom.xml" />
         <option value="$PROJECT_DIR$/consumer/pom.xml" />
-        <option value="$PROJECT_DIR$/provider-12302/pom.xml" />
-        <option value="$PROJECT_DIR$/provider-12303/pom.xml" />
         <option value="$PROJECT_DIR$/provider-12304/pom.xml" />
+        <option value="$PROJECT_DIR$/provider/pom.xml" />
       </list>
     </option>
   </component>

@@ -5,9 +5,7 @@
     <file url="file://$PROJECT_DIR$/api" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/consumer" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/pojo" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/provider-12301" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/provider-12302" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/provider-12303" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/provider-12304" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/server" charset="UTF-8" />
   </component>

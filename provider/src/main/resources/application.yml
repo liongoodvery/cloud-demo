@@ -1,0 +1,20 @@
+server:
+  port: 12310
+spring:
+  application:
+    name: dept-provider
+  devtools:
+    restart:
+      enabled: true
+eureka:
+  client:
+    service-url:
+      defaultZone: http://eureka7001.com:7001/eureka/,http://eureka7002.com:7002/eureka/,http://eureka7003.com:7003/eureka/
+  instance:
+    instance-id: dept-provider-12310
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+

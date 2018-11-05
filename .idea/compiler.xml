@@ -9,11 +9,9 @@
         <module name="api" />
         <module name="consumer" />
         <module name="pojo" />
-        <module name="provider-12301" />
+        <module name="provider" />
         <module name="provider-12301 (2)" />
         <module name="provider-12301 (3)" />
-        <module name="provider-12302" />
-        <module name="provider-12303" />
         <module name="provider-12304" />
         <module name="server" />
       </profile>
@@ -23,6 +21,7 @@
       <module name="cloud" target="1.5" />
       <module name="consumer" target="1.8" />
       <module name="pojo" target="1.5" />
+      <module name="provider" target="1.8" />
       <module name="provider-12301" target="1.8" />
       <module name="provider-12301 (2)" target="1.8" />
       <module name="provider-12301 (3)" target="1.8" />
